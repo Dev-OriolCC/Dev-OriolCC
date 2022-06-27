@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I am++Oriol....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <img src="images/Banner_HEX.jpg">
 </h1>
 
 [![Instagram](https://img.shields.io/badge/-@oriol.cc7-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/oriol.cc7/)](https://www.instagram.com/oriol.cc7)
