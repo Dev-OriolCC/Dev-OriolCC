@@ -1,44 +1,32 @@
-## Hello 👋, I'm Oriol!
-#### Backend Developer / Software Engineering Student from Mexico
 
-[![Instagram](https://img.shields.io/badge/-@oriol.cc7-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/oriol.cc7/)](https://www.instagram.com/oriol.cc7)
-<a href="https://open.spotify.com/user/22gsx7a3lxfuvtqw7e4ltstvq"><img src="https://img.shields.io/badge/-@Oriol%20C-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22gsx7a3lxfuvtqw7e4ltstvq" alt="Spotify Badge"></a></p>
+<h1 align="center">Hi 👋, I'm Oriol</h1>
+<h3 align="center">A passionate software developer.</h3>
 
-<br>
-- 📖 I'm currently learning Java with Spring Boot
-  <br>
-- 😁Excelling at self-taught learning
-  <br>
-- 💻 I love writing code and learn anything about it
-  <br>
-- 💬 Text me <a href="https://t.me/OrionC74" title="gmail">Here</a> 
-  <br>
-
-<br>
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=Dev-OriolCC" alt="Dev-OriolCC" />
+    <img src="https://komarev.com/ghpvc/?username=dev-oriolcc&label=Profile%20views&color=0e75b6&style=flat" alt="dev-oriolcc" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Dev-OriolCC?label=Followers&style=social">   
   <img src="https://img.shields.io/github/stars/Dev-OriolCC?label=Stars" alt="Total Stars">
-</p
-
-### Languages and Tools:
-<br>
-<p align="center">
-  <code><img title="Java" height="50" src="images/java_2.png"></code>
-  <code><img title="Spring Boot" height="50" src="images/spring.png"></code>
-  <code><img title="MySQL" height="50" src="images/mysql.png"></code>
-  <code><img title="PHP" height="50" src="images/php.png"></code>
-<code><img title="Laravel" height="50" src="images/laravel.png"></code>
-<code><img title="Vue" height="50" src="images/vuejs.png"></code>
-<code><img title="csharp" height="50" src="images/csharp.png"></code>
-<code><img title="intellij" height="50" src="images/IntelliJ_IDEA_Icon.svg.png"></code>
-  <code><img title="HTML5" height="50" src="images/html-5-icon.png"></code>
-<code><img title="CSS" height="50" src="images/css-3-icon.png"></code>
-  <code><img title="Javascript" height="50" src="images/javascript.png"></code>
-  <code><img title="Git" height="50" src="images/git.png"></code>
-  <code><img title="Visual Studio Code" height="50" src="images/visualcode.svg"></code>
-  
-  
 </p>
+
+- 🌱 I’m currently learning **Frontend development with Angular (TypeScript)**
+
+<!-- - 👨‍💻 All of my projects are available at [PorfolioLink](PorfolioLink) -->
+
+<!-- - 📝 I regularly write articles on [Medium Blog](Medium Blog) -->
+
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/oriolcc)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/oriolcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likedin_username" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/OriolC7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank_username" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-oriolcc&show_icons=true&locale=en&layout=compact" alt="dev-oriolcc" /></p>
 <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-oriolcc&show_icons=true&locale=en" alt="dev-oriolcc" /></p>
+
 Thanks for reading...
